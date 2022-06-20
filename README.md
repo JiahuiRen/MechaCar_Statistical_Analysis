@@ -20,4 +20,6 @@ Residual value of min and max is |19.47| and |18.58|,with median of 0.07.
 The slope of a linear model is not zero.  It can be seen that there are significant non-zero values in slope coefficient, and all p values are lower than the significant level of P =0.05. 
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/6320035/174511307-0558535d-3bfc-4742-bc7f-554b37600177.png">
 <img width="842" alt="image" src="https://user-images.githubusercontent.com/6320035/174511373-b74413a2-b38d-4000-ab1e-f96bdef3c027.png">
+
+## Summary Statistics on Suspension Coils
 <img width="788" alt="image" src="https://user-images.githubusercontent.com/6320035/174511425-f8461cb2-cafc-4f44-a3b6-c6c35048f0d1.png">
